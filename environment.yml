@@ -1,12 +1,11 @@
-name: sandbox-2022
+name: sandbox-2023
 channels:
   - defaults
   - conda-forge
   - bioconda
 
 dependencies:
-  - biopython
   - pandas
-  - pysam
   - matplotlib
   - seaborn
+  - plotly
